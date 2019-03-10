@@ -14,6 +14,7 @@
   "dependencies": {
     "next": "^8.0.3",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "webpack-clear-require-cache-plugin": "0.0.3"
   }
 }
